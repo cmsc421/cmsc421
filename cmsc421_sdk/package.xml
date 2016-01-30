@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+  <name>cmsc421_sdk</name>
+  <version>1.0.0</version>
+  <description>
+    cmsc421_sdk metapackage
+  </description>
+
+  <maintainer email="shamwell@cs.umd.edu">
+    J Shamwell
+  </maintainer>
+  <license>BSD</license>
+
+  <author>Shamwell</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  
+  <export>
+    <metapackage/>
+  </export>
+
+</package>
