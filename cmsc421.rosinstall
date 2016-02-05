@@ -62,7 +62,3 @@
     local-name: ar_track_alvar
     uri: https://github.com/cmsc421/ar_track_alvar.git
     version: master
-- git:
-    local-name: hector_models
-    uri: https://github.com/cmsc421/hector_models.git
-    version: indigo
