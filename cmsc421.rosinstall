@@ -1,7 +1,7 @@
 - git:
     local-name: cmsc421
     uri: https://github.com/cmsc421/cmsc421.git
-    version: indigo
+    version: master
 - git:
     local-name: baxter
     uri: https://github.com/cmsc421/baxter.git
