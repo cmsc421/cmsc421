@@ -23,6 +23,10 @@
     uri: https://github.com/cmsc421/baxter_tools.git
     version: master
 - git:
+    local-name: baxter_simulator
+    uri: https://github.com/cmsc421/baxter_simulator.git
+    version: master
+- git:
     local-name: mobility_base_common
     uri: https://github.com/cmsc421/mobility_base_common.git
     version: master
