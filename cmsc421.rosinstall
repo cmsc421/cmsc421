@@ -3,6 +3,14 @@
     uri: https://github.com/cmsc421/cmsc421.git
     version: master
 - git:
+    local-name: baxter_pickup_msgs
+    uri: https://github.com/cmsc421/baxter_pickup_msgs.git
+    version: master
+- git:
+    local-name: baxter_pickup
+    uri: https://github.com/cmsc421/baxter_pickup.git
+    version: master
+- git:
     local-name: baxter
     uri: https://github.com/cmsc421/baxter.git
     version: master
