@@ -15,3 +15,5 @@ wstool update
 cd ~/ros_ws
 catkin_make
 cp -r ~/ros_ws/src/baxter_pickup/models/* ~/.gazebo/models
+source ~/.bashrc
+rospack profile
