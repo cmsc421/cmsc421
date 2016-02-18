@@ -1,5 +1,8 @@
 #!/bin/bash
-
+if [ ! -d ~/ros_ws ]; then
+mkdir ~/ros_ws
+fi
+ 
 cd ~/ros_ws
 rm -rf *
 source ~/.bashrc
