@@ -1,3 +1,13 @@
+
+- git:
+    local-name: baxter_htn
+    uri: https://github.com/cmsc421/baxter_htn.git
+    version: master
+- git:
+    local-name: baxter_pickup
+    uri: https://github.com/cmsc421/baxter_pickup.git
+    version: master
+
 - git:
     local-name: cmsc421
     uri: https://github.com/cmsc421/cmsc421.git
@@ -7,6 +17,70 @@
     uri: https://github.com/cmsc421/baxter_pickup_msgs.git
     version: master
 - git:
-    local-name: baxter_htn
-    uri: https://github.com/cmsc421/baxter_htn.git
+    local-name: baxter_pickup
+    uri: https://github.com/cmsc421/baxter_pickup.git
+    version: master
+- git:
+    local-name: baxter
+    uri: https://github.com/cmsc421/baxter.git
+    version: master
+- git:
+    local-name: baxter_common
+    uri: https://github.com/cmsc421/baxter_common.git
+    version: master
+- git:
+    local-name: baxter_examples
+    uri: https://github.com/cmsc421/baxter_examples.git
+    version: master
+- git:
+    local-name: baxter_interface
+    uri: https://github.com/cmsc421/baxter_interface.git
+    version: master
+- git:
+    local-name: baxter_tools
+    uri: https://github.com/cmsc421/baxter_tools.git
+    version: master
+- git:
+    local-name: baxter_simulator
+    uri: https://github.com/cmsc421/baxter_simulator.git
+    version: master
+- git:
+    local-name: mobility_base_common
+    uri: https://github.com/cmsc421/mobility_base_common.git
+    version: master
+- git:
+    local-name: mobility_base_tools
+    uri: https://github.com/cmsc421/mobility_base_tools.git
+    version: master
+- git:
+    local-name: mobility_base_examples
+    uri: https://github.com/cmsc421/mobility_base_examples.git
+    version: master
+- git:
+    local-name: mobility_base_pointcloud_filter
+    uri: https://github.com/cmsc421/mobility_base_pointcloud_filter.git
+    version: master
+- git:
+    local-name: qrcode_detection
+    uri: https://github.com/cmsc421/qrcode_detection.git
+    version: master
+- git:
+    local-name: usb_cam
+    uri: https://github.com/cmsc421/usb_cam.git
+    version: master
+- git:
+    local-name: velodyne
+    uri: https://github.com/cmsc421/velodyne.git
+    version: master
+- git:
+    local-name: mobility_base_simulator
+    uri: https://github.com/cmsc421/mobility_base_simulator.git
+    version: master
+- git:
+    local-name: ar_track_alvar_msgs
+    uri: https://github.com/cmsc421/ar_track_alvar_msgs.git
+    version: master
+- git:
+    local-name: ar_track_alvar
+    uri: https://github.com/cmsc421/ar_track_alvar.git
     version: master
